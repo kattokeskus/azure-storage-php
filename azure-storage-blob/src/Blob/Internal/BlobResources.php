@@ -95,7 +95,7 @@ class BlobResources extends Resources
     const BLOB_CONTENT_MD5 = 'x-ms-blob-content-md5';
 
     // Query parameters
-    const QP_DELIMITER = 'Delimiter';
+    const QP_DELIMITER = 'delimiter';
     const QP_BLOCKID = 'blockid';
     const QP_BLOCK_LIST_TYPE = 'blocklisttype';
     const QP_PRE_SNAPSHOT = 'prevsnapshot';
